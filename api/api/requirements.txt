@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+requests
+pydantic
+motor
+pymongo
+pymongo[srv]
+json_util
+jinja2
+python-dotenv
+boto3
+email-validator
+pytz
+websockets
+qrcode
+python-multipart
